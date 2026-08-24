@@ -1,0 +1,5 @@
+client,project,folder,type,status,notes,hourly_rate,monthly_hours,billing_day,rollover,rollover_cap,start_date,end_date,purchased_hours,purchase_date,expiry_date,low_balance_threshold_pct,quoted_hours,fixed_fee,due_date,opening_used_hours,opening_date
+Northwind Foods,Monthly retainer,Retainers,retainer,active,"Content, SEO and reporting",185,20,1,yes,10,2026-06-01,,,,,,,,,6.5,2026-08-01
+Harbour Legal,Support bundle,Bundles,bundle,active,,195,,,,,,,40,2026-07-15,2027-07-15,75,,,,12,2026-07-15
+Ridgeline Health,Website refresh,Projects,standalone,active,"Fixed fee, quoted March",,,,,,2026-08-03,,,,,,60,14500,2026-10-30,0,
+Flourish Online,Internal — admin,Internal,standalone,active,Non-billable internal time,,,,,,2026-01-01,,,,,,100,0,,0,
