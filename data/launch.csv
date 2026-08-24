@@ -1,0 +1,8 @@
+client,project,folder,type,status,notes,hourly_rate,monthly_hours,billing_day,rollover,rollover_cap,start_date,end_date,purchased_hours,purchase_date,expiry_date,low_balance_threshold_pct,quoted_hours,fixed_fee,due_date,opening_used_hours,opening_date
+DSOA,Monthly retainer,Retainer Projects,retainer,active,Was [DSOA] in ClickUp,,25,1,,,,,,,,,,,,,
+Dance Studio Pro,Monthly retainer,Retainer Projects,retainer,active,Was [DSP] in ClickUp,,,1,,,,,,,,,,,,,
+Catherine Morgan,Monthly retainer,Retainer Projects,retainer,active,Was [CM] in ClickUp,,,1,,,,,,,,,,,,,
+BlissFeeds,Monthly retainer,Retainer Projects,retainer,active,Was [BF] in ClickUp,,,1,,,,,,,,,,,,,
+Happy Families,Monthly retainer,Retainer Projects,retainer,active,Was [HF] in ClickUp — check the full client name,,,1,,,,,,,,,,,,,
+Sheila + Ecstatic Birth,Monthly retainer,Retainer Projects,retainer,active,Was [SKH] in ClickUp,,,1,,,,,,,,,,,,,
+Elene Pilch,Hours bundle,Bundles,bundle,active,Was [EP] 20H - September in ClickUp,,,,,,,,20,,,75,,,,,
